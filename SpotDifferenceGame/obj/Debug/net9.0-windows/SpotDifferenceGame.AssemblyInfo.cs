@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpotDifferenceGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcd265eb43bafb8b4fde6cff8a52220df0042251")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpotDifferenceGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpotDifferenceGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Aya\\uni\\Multimedia\\Spot Difference Game\\spotdifferencegame\\SpotDifferenceGame.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\multimedia\\SpotDifferenceGame\\SpotDifferenceGame\\SpotDifferenceGame.csproj": {}
   },
   "projects": {
-    "E:\\Aya\\uni\\Multimedia\\Spot Difference Game\\spotdifferencegame\\SpotDifferenceGame.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\multimedia\\SpotDifferenceGame\\SpotDifferenceGame\\SpotDifferenceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aya\\uni\\Multimedia\\Spot Difference Game\\spotdifferencegame\\SpotDifferenceGame.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\multimedia\\SpotDifferenceGame\\SpotDifferenceGame\\SpotDifferenceGame.csproj",
         "projectName": "SpotDifferenceGame",
-        "projectPath": "E:\\Aya\\uni\\Multimedia\\Spot Difference Game\\spotdifferencegame\\SpotDifferenceGame.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Aya\\uni\\Multimedia\\Spot Difference Game\\spotdifferencegame\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\multimedia\\SpotDifferenceGame\\SpotDifferenceGame\\SpotDifferenceGame.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\multimedia\\SpotDifferenceGame\\SpotDifferenceGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows"

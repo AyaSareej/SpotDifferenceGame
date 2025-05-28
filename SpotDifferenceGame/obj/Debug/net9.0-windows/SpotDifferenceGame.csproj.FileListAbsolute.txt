@@ -12,3 +12,18 @@ E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-w
 E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.pdb
 E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.genruntimeconfig.cache
 E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\ref\SpotDifferenceGame.dll
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\bin\Debug\net9.0-windows\SpotDifferenceGame.exe
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\bin\Debug\net9.0-windows\SpotDifferenceGame.deps.json
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\bin\Debug\net9.0-windows\SpotDifferenceGame.runtimeconfig.json
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\bin\Debug\net9.0-windows\SpotDifferenceGame.dll
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\bin\Debug\net9.0-windows\SpotDifferenceGame.pdb
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.sourcelink.json
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.dll
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\obj\Debug\net9.0-windows\refint\SpotDifferenceGame.dll
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.pdb
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\multimedia\SpotDifferenceGame\SpotDifferenceGame\obj\Debug\net9.0-windows\ref\SpotDifferenceGame.dll
