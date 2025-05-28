@@ -1,0 +1,14 @@
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\bin\Debug\net9.0-windows\SpotDifferenceGame.exe
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\bin\Debug\net9.0-windows\SpotDifferenceGame.deps.json
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\bin\Debug\net9.0-windows\SpotDifferenceGame.runtimeconfig.json
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\bin\Debug\net9.0-windows\SpotDifferenceGame.dll
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\bin\Debug\net9.0-windows\SpotDifferenceGame.pdb
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.AssemblyInfoInputs.cache
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.AssemblyInfo.cs
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.csproj.CoreCompileInputs.cache
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.dll
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\refint\SpotDifferenceGame.dll
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.pdb
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\SpotDifferenceGame.genruntimeconfig.cache
+E:\Aya\uni\Multimedia\Spot Difference Game\SpotDifferenceGame\obj\Debug\net9.0-windows\ref\SpotDifferenceGame.dll
