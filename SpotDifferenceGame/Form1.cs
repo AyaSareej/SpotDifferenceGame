@@ -9,33 +9,51 @@ namespace SpotDifferenceGame
 {
     public partial class Form1 : Form
     {
-        private PictureBox pictureBoxLeft;
+       private PictureBox pictureBoxLeft;
         private PictureBox pictureBoxRight;
         private Label labelStatus;
         private Label labelTimer;
         private System.Windows.Forms.Timer gameTimer;
 
         private ModeSelectionForm.GameMode gameMode;
+        private DifficultySelectionForm.Difficulty difficulty;
         private int remainingAttempts = 5;
         private int timeLeft = 60;
         private bool gameOver = false;
 
         private List<Rectangle> differences = new List<Rectangle>();
-
-
         private HashSet<int> discoveredDifferences = new HashSet<int>();
 
-        public Form1(ModeSelectionForm.GameMode mode)
+        public Form1(ModeSelectionForm.GameMode mode, DifficultySelectionForm.Difficulty diff)
         {
             gameMode = mode;
+            difficulty = diff;
             InitializeComponent();
-        this.Load += (sender, e) => {
+            this.Load += (sender, e) => {
+                SetDifficultyTime();
                 LoadImages();
                 DrawAllDifferenceMarkers();
                 StartGameTimer();
             };
             pictureBoxRight.MouseClick += PictureBoxRight_MouseClick;
         }
+
+        private void SetDifficultyTime()
+        {
+            switch (difficulty)
+            {
+                case DifficultySelectionForm.Difficulty.Easy:
+                    timeLeft = 60;
+                    break;
+                case DifficultySelectionForm.Difficulty.Medium:
+                    timeLeft = 45;
+                    break;
+                case DifficultySelectionForm.Difficulty.Hard:
+                    timeLeft = 30;
+                    break;
+            }
+        }
+
 
 private void LoadImages()
 {
